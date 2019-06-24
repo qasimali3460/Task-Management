@@ -1,6 +1,7 @@
 # Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8. and NODE JS for REST API for http request handling
+![Screenshot (11)](https://user-images.githubusercontent.com/46552800/59999458-76d00980-967b-11e9-9329-062e5114e1e4.png)
 
 
 
